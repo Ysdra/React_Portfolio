@@ -2,7 +2,7 @@
 
 ## Live Deployed Web Page: https://ysdra.github.io/React_Portfolio/
 
-## Application Live Page: ![React Portfolio]()
+## Application Live Page: ![React Portfolio](https://github.com/Ysdra/React_Portfolio/blob/main/React_Portfolio.gif)
 
 
 ## App Description:
